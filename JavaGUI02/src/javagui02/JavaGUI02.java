@@ -15,6 +15,8 @@ public class JavaGUI02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Mainframe mf = new MainFrame;
+        mf setVisible(true);
     }
     
 }
