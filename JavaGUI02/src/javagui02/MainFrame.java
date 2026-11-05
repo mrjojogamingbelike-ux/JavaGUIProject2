@@ -9,5 +9,8 @@ import javax.swing.JFrame;
  * @author iektm1-04
  */
 public class MainFrame {
-    
+    MainFrame(){
+        super();
+        setSize(300,300);
+    }
 }
